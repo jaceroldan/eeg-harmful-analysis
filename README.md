@@ -13,3 +13,8 @@ Proposal Paper: WIP: https://docs.google.com/document/d/1oxPZLw4RLrrtSa3Y1wjWLD3
 * Develop a scalable and efficient workflow for processing large EEG datasets, leveraging parallelization and optimization techniques.
 * Document the entire development process, including data preprocessing steps, model architectures, and evaluation results.	
 
+## Timeline
+* Week 1: Data exploration and preprocessing
+* Week 2: Feature extraction and model training
+* Week 3: Model optimization and evaluation
+* Week 4: Documentation, finalization, and submission
